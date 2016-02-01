@@ -19,7 +19,7 @@ is listed in the CodeBook).
 File *CodeBook.md* contains further detail about the data used and the code steps used to produce the tidy data set.
 
 ## Source data and output files
-A copy of the source data found at the URL specified in the CodeBook is provided for reference should the data no longer be available at that URL.  To use this data, a copy should be placed locally and named *UCI_HAR_Dataset.zip* and the code amended to skip the file download.
+A copy of the source zip file (found at the URL mentioned in the CodeBook) is provided for reference, in case
+the data is no longer available at that URL. 
 
-The output file is provided for reference and shows the result of running the code on the specified data set.
-
+The output file is provided as an example of the result of running the code with the specified data.
